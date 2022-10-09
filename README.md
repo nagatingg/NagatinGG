@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
-- 🎓 I'm a software engineering student
+- 🎓 I'm a student of Bachelor of Technology - BTech, Software Analysis and Development
 
 - 📚 I’m currently learning about **HTML, CSS, JavaScript** in Alura
 
