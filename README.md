@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wesley Alexandre</h1>
+
+<img src="https://raw.githubusercontent.com/wesleyarm/wesleyarm/blob/main/animated-header.gif" alt="animated-banner">
+
 <h3 align="center">Front End Student born and living in Sorocaba, São Paulo, Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
