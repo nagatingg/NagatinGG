@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wesley Alexandre</h1>
 
-<img src="https://raw.githubusercontent.com/wesleyarm/wesleyarm/blob/main/animated-header.gif" alt="animated-banner">
+<img src="https://raw.githubusercontent.com/wesleyarm/wesleyarm/blob/main/animated-header1.gif" alt="animated-banner">
 
 <h3 align="center">Front End Student born and living in Sorocaba, São Paulo, Brazil.</h3>
 
