@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=20&height=300&section=header&text=WESLEY&desc=웨슬리%20-ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70&fontColor=5b5b95)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList=20&height=300&section=header&text=WESLEY&desc=웨슬리%20-ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70&fontColor=6b6bb2)
 
 <br>
 
@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 
 - 📚 I’m currently learning about **Meta React Native Specialization** and **Google UX Design** in Coursera
 - ☕ In my free time I like: Running 🏃🏼‍♂️ Animes ⚡ Games 🎮
