@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList24&height=300&section=header&text=WESLEY&desc=웨슬리___ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
 
-<img src="https://github.com/wesleyarm/Wesleyarm/blob/main/animated-header_1.gif" alt="animated-banner">
+<br>
 
 <h3 align="center">Front End Student born and living in Sorocaba, São Paulo, Brazil.</h3>
 
