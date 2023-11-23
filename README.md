@@ -33,7 +33,8 @@
   <a href="https://www.youtube.com/nagatin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nagatingg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/nagatingg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/nagatingg"><img src="https://img.shields.io/badge/nagatin-%237289DA.svg?style=flat-square&logo=discord&logoColor=white" title="nagatin_s#7826" alt="Discord Badge" height="25"></a>
+  <a href="https://discord.com/users/nagatingg"><img src="https://img.shields.io/badge/<Nagatin>-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord Badge" height="25"></a>
+  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
 
 <div align="center">
   <a href="https://github.com/Netsujr">
