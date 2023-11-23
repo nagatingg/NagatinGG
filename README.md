@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList22&height=300&section=header&text=WESLEY&desc=웨슬리___ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList1&height=300&section=header&text=WESLEY&desc=웨슬리___ウェスリー&fontSize=90&animation=twinkling&fontAlignY=90&descAlignY=70)
 
 <br>
 
