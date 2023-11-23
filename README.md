@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wesley Alexandre</h1>
+![header](https://capsule-render.vercel.app/api?type=Slice&color=gradient&customColorList14&height=250&section=header&text=WESLEY&desc=웨슬리_ウェスリー&fontSize=95&animation=twinkling&fontAlignY=90&descAlignY=70)
 
 <img src="https://github.com/wesleyarm/Wesleyarm/blob/main/animated-header_1.gif" alt="animated-banner">
 
