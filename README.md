@@ -22,7 +22,7 @@
 
 - 📚 I’m currently learning about **Meta React Native Specialization** and **Google UX Design** in Coursera
 - ☕ In my free time I like: Running 🏃🏼‍♂️ Animes ⚡ Games 🎮
-- ♥ I also have a YouTube channel with 300k thousand subscribers, where I talk about Animes
+- ❤️ I also have a YouTube channel with 300k thousand subscribers, where I talk about Animes
 - 📫 How to reach me **wesleydeveloper@icloud.com**
 
 <h4 align="left">
