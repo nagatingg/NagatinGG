@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />
 </p>
 
-- 📚 I’m currently learning about **Meta React Native Specialization and Google UX Design** in Coursera
+- 📚 I’m currently learning about **Meta React Native Specialization** and **Google UX Design** in Coursera
 - ☕ In my free time I like: Running 🏃🏼‍♂️ Animes ⚡ Games 🎮
 - ♥ I also have a YouTube channel with 300k thousand subscribers, where I talk about Animes
 - 📫 How to reach me **wesleydeveloper@icloud.com**
@@ -33,8 +33,7 @@
   <a href="https://www.youtube.com/nagatin" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/nagatingg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/nagatingg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discord.com/users/nagatingg"><img src="https://img.shields.io/badge/<Nagatin>-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" alt="Discord Badge" height="25"></a>
-  https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
+  <a href="https://discord.com/users/nagatingg"><img src="https://img.shields.io/badge/<Nagatin>-7289DA?style=flat-square&logo=discord&logoColor=white" target="_blank" alt="Discord Badge" height="25"></a>
 
 <div align="center">
   <a href="https://github.com/Netsujr">
