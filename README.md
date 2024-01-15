@@ -1,13 +1,4 @@
-<p align="center">
-  <a href="">
-    <img
-      alt="banner"
-      src="https://user-images.githubusercontent.com/42545742/117394037-f42b5d00-af27-11eb-82cb-e5b0325aaf56.gif](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=100&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5"
-    />
-  </a>
-</p>
-
-<br>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=100&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
 
 <h3 align="left">
   I'm a student of BTech, Software Analysis and Development
