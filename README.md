@@ -44,11 +44,11 @@
 
  ## Current courses
 
-**<a href="https://github.com/wesleyarm/meta_react_native"Meta React Native</a>** - A course focused on teaching skills needed to develop reliable and scalable cross-platform mobile application solutions.
+**<a href="https://github.com/wesleyarm/meta_react_native">Meta React Native</a>** - A course focused on teaching skills needed to develop reliable and scalable cross-platform mobile application solutions.
 
-**<a href="https://github.com/wesleyarm/google_ux_design"Google UX Design</a>** - I'm learning that by mastering the fundamentals of UX design, I can become a better programmer.
+**<a href="https://github.com/wesleyarm/google_ux_design">Google UX Design</a>** - I'm learning that by mastering the fundamentals of UX design, I can become a better programmer.
 
-**<a href="https://github.com/wesleyarm/rocketseat-explorer"Explorer RocketSeat</a>** - A comprehensive program that covers a wide range of technologies and tools to help you become a standout developer front-end.
+**<a href="https://github.com/wesleyarm/rocketseat-explorer">Explorer RocketSeat</a>** - A comprehensive program that covers a wide range of technologies and tools to help you become a standout developer front-end.
 
 ...among other smaller ones that I'm not hosting on github.
 
