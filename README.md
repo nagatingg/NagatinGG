@@ -1,6 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=80&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
-
 <h2 align="center">
   I'm Wesley! 👋
 </h2>
@@ -38,7 +36,7 @@
   <a href="https://twitter.com/nagatingg" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/nagatingg"><img src="https://img.shields.io/badge/<Nagatin>-7289DA?style=flat-square&logo=discord&logoColor=white" target="_blank" alt="Discord Badge"></a>
 
-###🚀 Current courses
+### 🚀 Current courses
 
 [**Meta React Native**](https://github.com/wesleyarm/meta_react_native) - A course focused on teaching skills needed to develop reliable and scalable cross-platform mobile application solutions.
 
@@ -49,7 +47,7 @@
 ...among other smaller ones that I'm not hosting on github.
 
 **Last updated**: 15 Jan 2024
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleyarm" /> </p>
 <div align="center">
   <a href="https://github.com/Netsujr">
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesleyarm&theme=dark" alt="Netsujr" />
