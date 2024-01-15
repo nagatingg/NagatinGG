@@ -1,8 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=100&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=80&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
 
-<h3 align="left">
-  I'm a student of BTech, Software Analysis and Development
-</h3>
+<h2 align="center">
+  Hi there, I'm Wesley! 👋
+</h2>
+
+<p align="center">
+  A student of BTech, Software Analysis and Development
+</p>
 
 <p align="left"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="wesleyarm" />
