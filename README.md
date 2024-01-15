@@ -1,12 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=100&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5)
+<p align="center">
+  <a href="">
+    <img
+      alt="banner"
+      src="https://user-images.githubusercontent.com/42545742/117394037-f42b5d00-af27-11eb-82cb-e5b0325aaf56.gif](https://capsule-render.vercel.app/api?type=waving&color=FCB6D0&height=100&section=header&text=Hello%20World&animation=scaleIn&fontSize=48&fontColor=f7f5f5"
+    />
+  </a>
+</p>
 
 <br>
 
-<h3 align="center">
+<h3 align="left">
   I'm a student of BTech, Software Analysis and Development
 </h3>
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="wesleyarm" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="wesleyarm" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="wesleyarm" />
