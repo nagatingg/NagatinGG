@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20after%20effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white" />
 </p>
 
 - 📚 I’m currently learning about **Meta React Native Specialization** and **Google UX Design** in Coursera
