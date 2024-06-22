@@ -48,9 +48,9 @@
 ...among other smaller ones that I'm not hosting on github.
 
 **Last updated**: 15 Jan 2024
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleyarm&label=Profile%20views&color=0e75b6&style=flat" alt="nagatingg" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagatingg&label=Profile%20views&color=0e75b6&style=flat" alt="nagatingg" /> </p>
 <div align="center">
   <a href="https://github.com/Netsujr">
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Wesleyarm&theme=dark" alt="Netsujr" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesleyarm&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=nagatingg&theme=dark" alt="Netsujr" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagatingg&layout=compact&langs_count=7&theme=dark"/>
 
